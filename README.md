@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
+A highly motivated software developer with a passion for technology and a strong drive to create innovative solutions.  
 
-<!--
-**farukcakal/farukcakal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Eager to Learn:** Continuously exploring emerging technologies and improving my skill set every day.  
+💻 **Problem-Solver:** Building efficient software solutions and creative workarounds for complex challenges.  
+🔧 **Expertise:** Full stack development with a particular focus on mobile applications.  
+🎓 **Educational Background:** Computer Programming and Management Information Systems.  
+⚡ **Hobbies:** Running, cycling, swimming, playing video games, and reading about history and technology.  
+🎬 **Leisure Time:** Enjoying thought-provoking movies and TV series.  
+☕ **Life Philosophy:** A perfectly brewed cup of coffee can inspire the best ideas and solutions.  
 
-Here are some ideas to get you started:
+💡 _"Code, coffee, and creativity—my recipe for success."_  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repositories and connect with me! 😊
+
+![farukcakal's Stats](https://github-readme-stats.vercel.app/api?username=farukcakal&theme=default&show_icons=true&hide_border=true&count_private=true)
+![farukcakal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farukcakal&theme=default&hide_border=true)
+![farukcakal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukcakal&theme=default&show_icons=true&hide_border=true&layout=compact)
