@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  
 A highly motivated software developer with a passion for technology and a strong drive to create innovative solutions.  
 
 🚀 **Eager to Learn:** Continuously exploring emerging technologies and improving my skill set every day.  
@@ -11,8 +11,18 @@ A highly motivated software developer with a passion for technology and a strong
 
 💡 _"Code, coffee, and creativity—my recipe for success."_  
 
-Feel free to check out my repositories and connect with me! 😊
+Feel free to check out my repositories and connect with me! 😊  
 
-![farukcakal's Stats](https://github-readme-stats.vercel.app/api?username=farukcakal&theme=default&show_icons=true&hide_border=true&count_private=true)
-![farukcakal's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farukcakal&theme=default&hide_border=true)
-![farukcakal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farukcakal&theme=default&show_icons=true&hide_border=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=farukcakal&theme=default&show_icons=true&hide_border=true&count_private=true" alt="farukcakal's Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=farukcakal&theme=default&hide_border=true" alt="farukcakal's Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukcakal&theme=default&show_icons=true&hide_border=true&layout=compact" alt="farukcakal's Top Languages" />
+    </td>
+  </tr>
+</table>
