@@ -5,7 +5,7 @@ A highly motivated software developer with a passion for technology and a strong
 💻 **Problem-Solver:** Building efficient software solutions and creative workarounds for complex challenges.  
 🔧 **Expertise:** Full stack development with a particular focus on backend applications.  
 🎓 **Educational Background:** Computer Programming and Management Information Systems.  
-⚡ **Hobbies:** Cycling, football, playing video games, and reading about history and technology.
+⚡ **Hobbies:** Cycling, football, playing video games, and reading about technology.
 
 💡 _"Code, coffee, and creativity—my recipe for success."_  
 
