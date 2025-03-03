@@ -10,14 +10,3 @@ A highly motivated software developer with a passion for technology and a strong
 💡 _"Code, coffee, and creativity—my recipe for success."_  
 
 Feel free to check out my repositories and connect with me! 😊  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=farukcakal&theme=default&show_icons=true&hide_border=true&count_private=true" alt="farukcakal's Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farukcakal&theme=default&show_icons=true&hide_border=true&layout=compact" alt="farukcakal's Top Languages" />
-    </td>
-  </tr>
-</table>
